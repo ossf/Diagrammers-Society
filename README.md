@@ -29,7 +29,7 @@ In our [meeting notes]( ) we have assesmbled many example of how the foundation 
 # 
 **Get Involved**
 
-*   Official communications occur on the [The Diagrammers Society Mailing List] (https://lists.openssf.org/g/openssf-sig-diagrammers-society).  \
+*   Official communications occur on the [The Diagrammers Society Mailing List](https://lists.openssf.org/g/openssf-sig-diagrammers-society).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 *   [Diagrammers Slack channel](https://openssf.slack.com/archives/C047FDZ55BK)
 
