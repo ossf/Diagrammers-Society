@@ -10,14 +10,14 @@ The OpenSSF is a complex and mysterious ecosystem that may be daunting for parti
 ## 
 **Objective**
 
-To be able to clearly and simply provide examples of how the OpenSSF is organized, what are the challenges our workign groups and sigs are seeking to solve, and how those individual components relate to each other.
+To be able to clearly and simply provide examples of how the OpenSSF is organized, what are the challenges our Working Groups (WG)s and Special Interest Groups (SIG)s are seeking to solve, and how those individual components relate to each other.
 
 
 ## 
 **Scope**
-TBD
+Initiatives, Projects, Working Groups, Special Interest Groups, and other collaborative efforts supported by the OpenSSF
 [What is in and out of scope]
-
+Non-OpenSSF projects, initiatives, etc.
 
 ## 
 **Prior Work**
