@@ -1,6 +1,4 @@
-# Technical Charter for Open Source Security Foundation
-
-The Diagrammers Society Special Interest Group
+# Technical Charter for Open Source Security Foundation's Diagrammers Society Special Interest Group
 
 Adopted [DATE]
 
