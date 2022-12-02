@@ -52,7 +52,18 @@ TBD
 
 The [CHARTER.md](https://github.com/ossf/Diagrammers-Society/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-
-[OPTIONAL]
 *   Lead name : CRob
 *   Co-Lead name
+
+### Project Maintainers
+- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
+
+### Project Collaborators
+- [Matt Rutkowski, IBM](https://github.com)
+- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
+- [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
+- [Jay White, Microsoft](https://github.com/)
+
+### Project Contributors
+- [Aeva Black, Microsoft, OSSF TAC](https://github.com/)
+- [Bob Callaway, Google, OSSF TAC](https://github.com/)\
