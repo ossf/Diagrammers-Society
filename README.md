@@ -36,10 +36,8 @@ We currently are soliciting ideas for ways to convey how the OSSF is organized a
 
 ### 
 Quick Start
-*   Areas that need contributions
-- New diagram ideas or feedback on our existing [drawings](https://github.com/ossf/Diagrammers-Society/tree/main/drawings)
-*   Where to file issues
-- Issues can be filed [here](https://github.com/ossf/Diagrammers-Society/issues) in our GitHub repo.
+*   Areas that need contributions : New diagram ideas or feedback on our existing [drawings](https://github.com/ossf/Diagrammers-Society/tree/main/drawings)
+*   Where to file issues: Issues can be filed [here](https://github.com/ossf/Diagrammers-Society/issues) in our GitHub repo.
 
 ## 
 **Meeting times**
