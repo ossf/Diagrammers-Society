@@ -24,10 +24,11 @@ Non-OpenSSF projects, initiatives, etc.
 
 In our [meeting notes]( ) we have assesmbled many example of how the foundation could be articulated in graphic format.
 
-*   List of prior and/or related projects
+*   No prior work.....yet
 
 # 
 **Get Involved**
+We currently are soliciting ideas for ways to convey how the OSSF is organized and how its assorted components interrelate.  Questions and feedback are welcome on our mailing list, slack channel, or as an issue filed here in our repo.
 
 *   Official communications occur on the [The Diagrammers Society Mailing List](https://lists.openssf.org/g/openssf-sig-diagrammers-society).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
@@ -35,11 +36,10 @@ In our [meeting notes]( ) we have assesmbled many example of how the foundation 
 
 ### 
 Quick Start
-TBD
 *   Areas that need contributions
-*   Build information if applicable
+New diagram ideas or feedback on our existing [drawings](https://github.com/ossf/Diagrammers-Society/tree/main/drawings)
 *   Where to file issues
-*   Etc.
+Issues can be filed [here](https://github.com/ossf/Diagrammers-Society/issues) in our GitHub repo.
 
 ## 
 **Meeting times**
