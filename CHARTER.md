@@ -1,6 +1,6 @@
 # Technical Charter for Open Source Security Foundation's Diagrammers Society Special Interest Group
 
-Adopted [DATE]
+Adopted by SIG vote on 7December2022
 
 This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Diagrammers Society open source community, which has been established as a Special Interest Group (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
