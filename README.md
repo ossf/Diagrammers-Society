@@ -16,13 +16,14 @@ To be able to clearly and simply provide examples of how the OpenSSF is organize
 ## 
 **Scope**
 Initiatives, Projects, Working Groups, Special Interest Groups, and other collaborative efforts supported by the OpenSSF
+
 [What is in and out of scope]
 Non-OpenSSF projects, initiatives, etc.
 
 ## 
 **Prior Work**
 
-In our [meeting notes]( ) we have assesmbled many example of how the foundation could be articulated in graphic format.
+In our [meeting notes]( ) we have assesmbled many examples of how the foundation could be articulated in graphic format.
 
 *   No prior work.....yet
 
