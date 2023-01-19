@@ -1,6 +1,6 @@
 # **The OpenSSF Diagrammers Society**
 
-We are a group of drawing-enthusists who assemble to help craft a series of dynamic images to help convey all the amazing work going on throughout the OpenSSF.
+We are a group of drawing-enthusiasts who assemble to help craft a series of dynamic images to help convey all the amazing work going on throughout the OpenSSF.
 
 ## 
 **Motivation**
