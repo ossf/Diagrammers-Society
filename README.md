@@ -1,4 +1,5 @@
 # **The OpenSSF Diagrammers Society**
+<img align="top" src="https://github.com/ossf/Diagrammers-Society/blob/main/ossf-goose-diagrammer1.png">
 
 We are a group of drawing-enthusiasts who assemble to help craft a series of dynamic images to help convey all the amazing work going on throughout the OpenSSF.
 
