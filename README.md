@@ -26,7 +26,7 @@ Non-OpenSSF projects, initiatives, etc.
 
 In our [meeting notes]( ) we have assesmbled many examples of how the foundation could be articulated in graphic format.
 
-*   No prior work.....yet
+*   [1000s of Words presentation](https://docs.google.com/presentation/d/1Xx-TblYarVTd3g7bLY4ifZx4OEhmSuQweqbjjPEgULw/edit#slide=id.p) a slide deck summarizing the group's work and assorted doodles as shared to the TAC, GB, and other groups.
 
 # 
 **Get Involved**
