@@ -22,6 +22,11 @@ Initiatives, Projects, Working Groups, Special Interest Groups, and other collab
 Non-OpenSSF projects, initiatives, etc.
 
 ## 
+**Current Results**
+
+The presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1ZQ7WjNH5fQL7qvpFN3jTFt-iQHqPpUc5of_azQc8iic/edit) is a Google document that includes several diagrams that help explain the OpenSSF, and is the current version of several of these diagrams. It's part of a larger presentation, so that people who want to explain the OpenSSF can immediately use it.
+
+## 
 **Prior Work**
 
 In our [meeting notes]( ) we have assesmbled many examples of how the foundation could be articulated in graphic format.
