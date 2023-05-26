@@ -50,7 +50,7 @@ Quick Start
 **Meeting times**
 
 *   Every other Thursday @ 3:00pm EST [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-*   [Meeting Minutes](https://docs.google.com/document/d/14i9v7WuQcLzWpvLe9B0sl-kf90JLwxNwrZkRXLWmEdQ/edit#heading=h.9m0zi4b0wnne)
+*   [Meeting Minutes](https://docs.google.com/document/d/1c0YntGi1N7h_0VKgEfKwGO27GuZHL7-IOrAmRm8xSo8/edit)
 
 # 
 **Governance**
