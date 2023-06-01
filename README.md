@@ -68,6 +68,10 @@ The [CHARTER.md](https://github.com/ossf/Diagrammers-Society/blob/main/CHARTER.m
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
 - [Jay White, Microsoft](https://github.com/)
+- [Arnaud Le Hors, IBM](https://github.com/lehors)
+- [Christine Abernathy, F5](https://github.com/caabernathy)
+- [Rosaria Carr, Indeed](https://github.com/)
+- [Jennifer Bly, LF](https://github.com/)
 
 ### Project Contributors
 - [Aeva Black, Microsoft, OSSF TAC](https://github.com/)
