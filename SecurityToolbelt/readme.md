@@ -44,19 +44,19 @@ The group is developing a list of
 ## Get Involved 
 We currently are soliciting ideas around the design, implementation, and evangelism of the Security Toolbelt. Questions and feedback are welcome on our mailing list, slack channel, or as an issue filed here in our repo.
 
-    Official communications occur on the [The Security Toolbelt Mailing List.](Openssf-sig-sterling-toolchain@lists.openssf.org)
-    Manage your subscriptions to [Open SSF mailing lists.](https://lists.openssf.org/g/main/subgroups)
-    Security Toolbelt [Slack channel](https://openssf.slack.com/archives/C057BN7K19B)
+- Official communications occur on the [The Security Toolbelt Mailing List.](Openssf-sig-sterling-toolchain@lists.openssf.org)
+- Manage your subscriptions to [Open SSF mailing lists.](https://lists.openssf.org/g/main/subgroups)
+- Security Toolbelt [Slack channel](https://openssf.slack.com/archives/C057BN7K19B)
 
 ## Quick Start
 
-    Areas that need contributions :  
-    Where to file issues: Issues can be filed here in our GitHub [repo](https://github.com/ossf/Diagrammers-Society/issues).
+Areas that need contributions :  
+- Where to file issues: Issues can be filed here in our GitHub [repo](https://github.com/ossf/Diagrammers-Society/issues).
 
 ## Meeting times
 
-    Every Tuesday @ 12:00pm EST OpenSSF [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-    Meeting [Minutes](https://docs.google.com/document/d/1H3Nk0PwmylLg5F7pqrIvyKzTyXAll0-f50B7DdqOh4A/edit#heading=h.9m0zi4b0wnne)
+- Every Tuesday @ 12:00pm EST OpenSSF [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- Meeting [Minutes](https://docs.google.com/document/d/1H3Nk0PwmylLg5F7pqrIvyKzTyXAll0-f50B7DdqOh4A/edit#heading=h.9m0zi4b0wnne)
 
 ## Governance
 
