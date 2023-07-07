@@ -5,7 +5,7 @@ We are a group of community members working to help define the vision and execut
 
 ### Motivation
 
-The open source software ecosystem has incredible diversity and variation of practice.  The Security Toolbelt seeks to provide consistent guidance, processes, and tools that enable open source developers to create amazing software, securely, and allow all partipants and consumers of taht downstream supply chain to be able to understand the security qualities of how that software was written, assembled, and delivered to them, as well as concrete things downstream can do to implement this software securely.
+The open source software ecosystem has incredible diversity and variation of practice.  The Security Toolbelt seeks to provide consistent guidance, processes, and tools that enable open source developers to create amazing software, securely, and allow all partipants and consumers of that downstream supply chain to be able to understand the security qualities of how that software was written, assembled, and delivered to them, as well as concrete things downstream can do to implement this software securely.
 
 ## Mission
 
