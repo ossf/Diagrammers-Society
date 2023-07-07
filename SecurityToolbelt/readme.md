@@ -17,7 +17,7 @@ A world where **every software package is verifiably trustworthy**, across all m
 
 ## Strategy
 
-To achieve the mission and vision of the Toolbelt initiative, the following strategy will be followed:
+To achieve the mission and vision of the Toolbelt initiative, the following strategy will be followed
 <ol>
 <li>Expose critical security actions through the definition of specific use cases that are needed to harden the software factory from code through deploy.</li>
 <li>Define barriers to the adoption of security tooling in the software factory.</li>
