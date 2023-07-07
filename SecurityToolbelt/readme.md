@@ -19,7 +19,7 @@ A world where **every software package is verifiably trustworthy**, across all m
 
 To achieve the mission and vision of the Toolbelt initiative, the following strategy will be followed:
 <ol>
-<li></li>Expose critical security actions through the definition of specific use cases that are needed to harden the software factory from code through deploy.</li>
+<li>Expose critical security actions through the definition of specific use cases that are needed to harden the software factory from code through deploy.</li>
 <li>Define barriers to the adoption of security tooling in the software factory.</li>
 <li>Identify and address gaps in tooling that are not addressed by existing open-source and closed source security tooling categories.</li>
 <li>Create a coalition of open-source and closed source contributors to define a common security tooling vocabulary.</li> 
@@ -29,25 +29,26 @@ To achieve the mission and vision of the Toolbelt initiative, the following stra
 </ol>
 
 What the strategy will not include:
-<ol>
-<li>A strict list of security tooling. </li> 
-<li>This strategy will not be a “big tent” of all possible tools and approaches, but a lean collection of strictly the most important pieces we expect the toolchains of the world to adopt. This must still be vendor-neutral.</li> 
+<ul>
+<li>A strict list of security tooling.</li> 
+<li>This strategy will not be a “big tent” of all possible tools and approaches, but a lean collection of strictly the most important pieces we expect the toolchains of the world to adopt. This must still be vendor-neutral.</li>
+</ul>
 
 ## Roadmap
 
 At each stage of this roadmap, we will revise and refine our plans based on what we have learned.
 <ol>
-<li>The OpenSSF will develop a clear set of **capabilities, personas, use cases, taxonomy/shared language, and threat models** that span the entirety of the software supply chain. </li>
-<li>Align controls to the threats identified and with **existing control frameworks** (e.g. [NIST SP800-218](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf). Where existing control frameworks are insufficient, we will propose new controls.  Based on that, **develop a map** of the existing products, processes, templates and other IP (inside and outside the OpenSSF) that act as “controls”, that reduce the risks identified by these use cases and threat models. </li>
+<li>The OpenSSF will develop a clear set of **capabilities**, **personas**, **use cases**, **taxonomy**/**shared language**, and **threat models** that span the entirety of the software supply chain.</li>
+<li>Align controls to the threats identified and with **existing control frameworks** (e.g. [NIST SP800-218](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf). Where existing control frameworks are insufficient, we will propose new controls.  Based on that, **develop a map** of the existing products, processes, templates and other IP (inside and outside the OpenSSF) that act as “controls”, that reduce the risks identified by these use cases and threat models.</li>
 <li>Perform a **market survey** to determine what products, patterns or techniques could achieve the control requirements identified in (2), noting where there are gaps.</li>
 <li>**Identify functional gaps, integration challenges, and opportunities to simplify** by looking at the links between these pieces. </li>
 <li>**Fill those gaps** by adapting interfaces/existing tools/processes/templates or driving the development of new interfaces/tools/processes/templates. Address the integration challenges by working with the existing pieces to get to e.g. better APIs. Develop a shared vocabulary to avoid confusion between the parts of the Toolbelt.</li>
 <li>Validate the approach by **working with selected OSS** projects and modify it as necessary.</li>
 <li>Document everything to sufficient degree as to **develop a certification mark** (or series of marks) that verify conformant toolchains and other supply chain components, and a dashboard or other risk measurement frameworks that drive a “race to the top” among toolchains and ecosystems.</li>
-<li>Develop an **outreach strategy** to initiate adoption and build awareness of the toolbelt solution. The outreach should be persona / platform based. </li>
+<li>Develop an **outreach strategy** to initiate adoption and build awareness of the toolbelt solution. The outreach should be persona / platform based.</li>
 </ol>
 
- Original working [document](https://docs.google.com/document/d/1k-0ReRSXEOIT8FRVbwNMe0BJ-QUvn-0c0hfFY-f4QzA/edit)
+Original working [document](https://docs.google.com/document/d/1k-0ReRSXEOIT8FRVbwNMe0BJ-QUvn-0c0hfFY-f4QzA/edit)
 
 ## Scope Initiatives, Projects, Working Groups, Special Interest Groups, and other collaborative efforts supported by the OpenSSF
 
