@@ -1,7 +1,7 @@
 # The OpenSSF Security Toolbelt (formally known as the Sterling Toolchain)
 
 
-We are a group of community members working to help define the vision and execution of the OpenSSF's Security Toolbelt intiative that is focused on helping all particpants and consumers in the open source software ecosystem work more securely.
+We are a group of community members working to help define the vision and execution of the OpenSSF's Security Toolbelt initiative that is focused on helping all participants and consumers in the open source software ecosystem work more securely.
 
 ### Motivation
 
