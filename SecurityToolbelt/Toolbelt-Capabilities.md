@@ -3,6 +3,9 @@ To define a series of desired capabilities the OSSF Security Toolbelt would work
 From the agreed-upon list of desired capabilities, further work and analysis will be done to identify reference patterns, architecture, patterns in implementation, anti-patterns, required inputs/outputs (aka “signals”), and other desired data for maturation of the Security Toolbelt initiative.
 
 # Capabilities
+
+<img align="top" src="https://github.com/ossf/Diagrammers-Society/blob/main/SecurityToolbelt/files/Toolbelt%20Capabilities.png">
+
 ## Capabilities desired from the Upstream Secure Software Factory
 ### Code & Pre-Build
 #### Secure Developer
