@@ -49,8 +49,8 @@ Quick Start
 ## 
 **Meeting times**
 
-*  The Diagrammers have completed all open tasks, and are retiring at this time.  Thanks to our contributors.  No further meetings will be held at this time.
-*  [Meeting Minutes](https://docs.google.com/document/d/1c0YntGi1N7h_0VKgEfKwGO27GuZHL7-IOrAmRm8xSo8/edit)
+* The Diagrammers have completed all open tasks, and are retiring at this time.  Thanks to our contributors.  No further meetings will be held at this time.
+* [Meeting Minutes](https://docs.google.com/document/d/1c0YntGi1N7h_0VKgEfKwGO27GuZHL7-IOrAmRm8xSo8/edit)
 
 # 
 **Governance**
