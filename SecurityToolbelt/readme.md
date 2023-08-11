@@ -110,13 +110,17 @@ The [CHARTER.md](https://github.com/ossf/Diagrammers-Society/blob/main/CHARTER.m
     Jon Meadows, Citi
     Josh Clements, Analog Devices
     Joshua Lock, Verizon
+    Marcela Melara, Intel
     Matt Rutkowski, IBM
     Melba Lopez, IBM
+    Michael Leiberman, Kusari
     Kris Borchers, independent
     Mike Lieberman, Kusari
     Phil Estes, AWS
     Sal Kimmich, EscherCloud AI
+    Sarah Evans, Dell
     Steve Taylor, Deployhub/Ortelius/Pyrsia
+    Tom Hennen, Google
     Tracy Ragan, Deployhub/Ortelius/CDEvents
     
 ### Project Contributors
